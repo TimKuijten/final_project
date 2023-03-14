@@ -1,0 +1,11 @@
+Date,Name,Description
+February 2011,Watson,IBM's Watson defeats human champions in the game of Jeopardy! and demonstrates the potential of AI in natural language processing and machine learning.
+September 2012,ImageNet,"The ImageNet dataset is created, leading to significant advances in computer vision and the development of deep learning."
+January 2014,DeepMind,"A British AI company, develops a neural network that learns how to play Atari games at superhuman levels."
+March 2016,AlphaGo,"An AI program developed by DeepMind, defeats the world champion in the game of Go, demonstrating the potential of AI in complex decision-making."
+December 2017,AlphaZero,"Another AI program developed by DeepMind, learns to play chess, shogi, and Go at superhuman levels without any prior knowledge or human guidance."
+June 2018,GPT,"OpenAI's AI system, called GPT (Generative Pre-trained Transformer), is introduced and can write coherent and human-like text."
+June 2019,The first AI-generated drug,The first AI-generated drug to enter human clinical trials is developed by the British AI company Exscientia.
+October 2019,Quantum supremacy,"Google announces that its quantum computer has achieved ""quantum supremacy,"" performing a calculation in just 200 seconds that would have taken a classical computer 10,000 years."
+June 2020,GPT-3,"OpenAI's GPT-3 is introduced, which is the largest language model to date, with 175 billion parameters, and is capable of generating high-quality text with little input."
+December 2020,AlphaFold,"An AI system developed by DeepMind, solves one of the biggest challenges in biology: predicting the 3D structure of proteins with remarkable accuracy."
