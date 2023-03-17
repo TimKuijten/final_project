@@ -7,7 +7,7 @@
 With the advancement of technology, we are seeing more and more artificial intelligence (AI) tools being developed that are becoming increasingly accessible to the general public. From self-driving cars to tools that can generate realistic pictures or art, and language models like ChatGPT, AI is becoming an integral part of our lives. However, with this increasing integration, there is a growing concern among people about the potential negative impacts of AI. In this analysis, we will explore people's sentiment towards AI on social media platforms such as Reddit, YouTube, and LinkedIn and the way people engage with it.
 
 ## Methods
-We collected data over 150.000 comments related to AI from popular social media platforms including Reddit, YouTube, and LinkedIn using web scraping techniques.
+We collected over 150.000 comments related to AI from popular social media platforms including Reddit, YouTube, and LinkedIn using web scraping techniques.
 
 After scraping data of 150.000 comments related to AI on Reddit, YouTube, and LinkedIn, we used the Natural Language Toolkit (NLTK) library's SentimentIntensityAnalyzer to perform sentiment analysis on each comment. This tool calculates a sentiment score for each comment between -1 (most negative) and 1 (most positive) based on the presence of positive and negative words in the text.
 
