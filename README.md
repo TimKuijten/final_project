@@ -1,4 +1,4 @@
-#### Sentiment towards Artificial intelligence on social media
+# Sentiment towards Artificial intelligence on social media
 
 ![image](https://user-images.githubusercontent.com/121023453/225805568-765b1375-cfac-4a08-8327-eabff0ffb14d.png)
 
